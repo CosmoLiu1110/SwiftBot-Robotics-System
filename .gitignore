@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# IDE (optional)
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
